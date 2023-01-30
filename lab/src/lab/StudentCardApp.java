@@ -60,10 +60,9 @@ public class StudentCardApp {
         
         // Add form fields to left pane
         leftPane.add(studentIdLabel);
-        leftPane.add(studentIdField);
+        leftPane.add(studentIdField);  
         leftPane.add(firstNameLabel);
         leftPane.add(firstNameField);
-        leftPane.add(lastNameLabel);
         leftPane.add(lastNameField);
         leftPane.add(collegeNameLabel);
         leftPane.add(collegeNameField);
@@ -119,5 +118,21 @@ public class StudentCardApp {
     public static void main(String[] args) {
         // Run the application
         SwingUtilities.invokeLater(() -> new StudentCardApp());
-    }
+  
+        
+        
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 }
