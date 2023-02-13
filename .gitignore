@@ -23,3 +23,5 @@
 hs_err_pid*
 /.metadata/
 /Lab2/nbproject/private/
+/Lab4/build/
+/Lab4/nbproject/private/
