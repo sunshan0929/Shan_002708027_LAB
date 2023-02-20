@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Author/Author.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Profile/Profile.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/UI/MainJFrame.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/UI_Librarian/AuthorJPanel.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/UI_Librarian/GenreJPanel.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/UI_Admin/AdminJFrame.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Genre/GenreDirectory.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Librarian/LibrarianDirectory.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Role/Role.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Library/UserAccount.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/UI_Customer/CustomerJFrame.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Library/UserAccountDirectory.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/RentalRequest/RentalRequest.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Book/BookDirectory.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Author/AuthorDirectory.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Book/Book.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/UI_Librarian/BookJPanel.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Customer/Customer.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/RentalRequest/RentalRequestDirectory.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/UI_Librarian/RequestJPanel.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Library/Business.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Customer/CustomerDirectory.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Librarian/Librarian.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/UI/RegisterJFrame.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/UI_Librarian/LibrarianJFrame.java</file>
+            <file>file:/Users/shaoyifan/NetBeansProjects/Lab5/src/Genre/Genre.java</file>
+        </group>
+    </open-files>
+</project-private>
